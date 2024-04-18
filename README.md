@@ -33,3 +33,4 @@ Transformers, the backbone of advanced tasks like natural language processing an
 
 After fine-tuning the model, the deployment process is seamlessly executed on the Hugging Face cloud infrastructure, thanks to the integration of Intel OpenVINO. By joining the OpenVINO community and creating a dedicated repository, the model is uploaded, ready for deployment. Intel OpenVINO provides open-source hardware support, enabling efficient execution of the model within the Hugging Face cloud environment. This collaboration between Hugging Face and Intel ensures smooth deployment and operation of the fine-tuned model, maximizing performance and scalability.
 
+**Link to my huggingface model :** <a href="https://huggingface.co/Smd-Arshad/Llama-python-finetuned" target="_blank">Model Link</a>
