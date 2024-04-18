@@ -1,2 +1,2 @@
-# Python-llama-llm
-llama2 finetuned on python codes
+# Fine Tuning Llama2 using intel one Api
+
